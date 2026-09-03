@@ -1,11 +1,13 @@
 about:
-  description: A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
+  description:
+  |
+    A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
   license: MIT
   homepage: 
   head: bb0e950
   archived: false
   latestVersion: v0.4.0
-  collectedAt: 2026-09-03T05:15:19Z
+  collectedAt: 2026-09-03T22:35:33Z
 timeline:
   created: 2024-02-20
   lastCommit: 2026-04-11
@@ -21,7 +23,7 @@ popularity:
 language:
   Rust: 96847
   RenderScript: 1
-totalLine: 96848
+totalBytes: 96848
 recent:
   last30d:
     since: 2026-08-04
