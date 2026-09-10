@@ -1,0 +1,93 @@
+- repo: aur
+  srcname: asak
+  binname: asak
+  visiblename: asak
+  version: 0.4.0
+  origversion: 0.4.0-1
+  status: newest
+  summary: A cross-platform audio recording/playback tool
+  maintainers:
+    - orhun@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: asak-git
+  binname: asak-git
+  visiblename: asak-git
+  version: r54.25413aa
+  origversion: r54.25413aa-1
+  status: rolling
+  summary: A cross-platform audio recording/playback tool (git)
+  maintainers:
+    - orhun@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: asak
+  visiblename: asak
+  version: 0.4.0
+  origversion: null
+  status: newest
+  summary: Cross-platform audio recording/playback CLI tool with TUI
+- repo: homebrew
+  srcname: asak
+  visiblename: asak
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Cross-platform audio recording/playback CLI tool with TUI
+- repo: nix_stable_24_11
+  srcname: asak
+  visiblename: asak
+  version: 0.3.3
+  origversion: null
+  status: outdated
+  summary: A cross-platform audio recording/playback CLI tool with TUI, written in Rust
+  maintainers:
+    - anas.elgarhy.dev@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: asak
+  visiblename: asak
+  version: 0.3.5
+  origversion: null
+  status: outdated
+  summary: Cross-platform audio recording/playback CLI tool with TUI, written in Rust
+  maintainers:
+    - anas.elgarhy.dev@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: asak
+  visiblename: asak
+  version: 0.3.5
+  origversion: null
+  status: outdated
+  summary: Cross-platform audio recording/playback CLI tool with TUI, written in Rust
+  maintainers:
+    - anas.elgarhy.dev@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: asak
+  visiblename: asak
+  version: 0.4.0
+  origversion: null
+  status: newest
+  summary: Cross-platform audio recording/playback CLI tool with TUI, written in Rust
+  maintainers:
+    - anas.elgarhy.dev@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: asak
+  visiblename: asak
+  version: 0.4.0
+  origversion: null
+  status: newest
+  summary: Cross-platform audio recording/playback CLI tool with TUI, written in Rust
+  maintainers:
+    - anas.elgarhy.dev@gmail.com
+  licenses:
+    - MIT
