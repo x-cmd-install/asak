@@ -12,6 +12,16 @@ A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
 x install asak
 ```
 
+## 代码规模
+
+合计: **2,666** 行代码（覆盖前 5 种语言、共 **23** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 2,611 | 0 | 305 | 20 |
+| Toml | 55 | 8 | 7 | 1 |
+| Markdown | 0 | 108 | 57 | 2 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/chaosprint/asak>
@@ -35,18 +45,20 @@ x install asak
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 1 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-14 | 2 | 1 | 0 | 0 | 1 | 8 |
 | 360d | 2025-09-15 | 2 | 1 | 0 | 0 | 1 | 8 |
+| last720d | 2024-09-20 | 4 | 7 | 0 | 2 | 3 | 35 |
 
-## 代码规模
+## 发行版状态
 
-合计: **2,666** 行代码（覆盖前 5 种语言、共 **23** 个文件）。
+在 [repology.org](https://repology.org/project/asak) 上共有 **9** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 2,611 | 0 | 305 | 20 |
-| Toml | 55 | 8 | 7 | 1 |
-| Markdown | 0 | 108 | 57 | 2 |
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.4.0` | ✅ latest |
+| Nix unstable | `0.4.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -57,4 +69,4 @@ asak 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:17:54Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:14:29Z._

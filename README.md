@@ -12,6 +12,16 @@ A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
 x install asak
 ```
 
+## Code insight
+
+Total: **2,666** lines of code across **23** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 2,611 | 0 | 305 | 20 |
+| Toml | 55 | 8 | 7 | 1 |
+| Markdown | 0 | 108 | 57 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/chaosprint/asak>
@@ -35,18 +45,20 @@ x install asak
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 1 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-14 | 2 | 1 | 0 | 0 | 1 | 8 |
 | 360d | 2025-09-15 | 2 | 1 | 0 | 0 | 1 | 8 |
+| last720d | 2024-09-20 | 4 | 7 | 0 | 2 | 3 | 35 |
 
-## Code size
+## Distribution status
 
-Total: **2,666** lines of code across **23** files in the top 5 languages.
+Reported by **9** distros on [repology.org](https://repology.org/project/asak). **4** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 2,611 | 0 | 305 | 20 |
-| Toml | 55 | 8 | 7 | 1 |
-| Markdown | 0 | 108 | 57 | 2 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.4.0` | ✅ latest |
+| Nix unstable | `0.4.0` | ✅ latest |
 
 ## Improve this data
 
@@ -57,4 +69,4 @@ Install metadata for asak lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:17:54Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:14:28Z._
