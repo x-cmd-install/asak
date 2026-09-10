@@ -4,7 +4,7 @@
 
 A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
 
-![asak](https://repo.x-cmd.io/asak.svg)
+![asak](https://repo.x-cmd.io/asak.svg?lang=zh)
 
 ## 安装
 
@@ -21,7 +21,6 @@ x install asak
 
 - **最新版本**: `v0.4.0` (2026-04-11)
 - **最近提交**: 2026-04-11
-- **发布时间**: 2026-04-11T21:59:16Z
 
 ## 流行度
 
@@ -58,4 +57,4 @@ asak 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:34:17Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:17:54Z._
