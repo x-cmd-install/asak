@@ -4,7 +4,7 @@
 
 A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
 
-[![x-cmd/install — asak Code Quality Monitoring Repo Card](https://repo.x-cmd.io/asak.svg)](https://x-cmd.com/install/asak)
+[![x-cmd/install — asak Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/asak.svg)](https://x-cmd.com/install/asak)
 
 ## Install
 
@@ -44,12 +44,12 @@ Total: **2,666** lines of code across **23** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-03-26 | 2 | 1 | 0 | 0 | 1 | 8 |
-| 360d | 2025-09-27 | 2 | 1 | 0 | 0 | 1 | 8 |
-| last720d | 2024-10-02 | 4 | 7 | 0 | 2 | 3 | 35 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-27 | 2 | 1 | 0 | 0 | 1 | 8 |
+| 360d | 2025-09-28 | 2 | 1 | 0 | 0 | 1 | 8 |
+| last720d | 2024-10-03 | 4 | 7 | 0 | 2 | 3 | 35 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for asak lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:48:24Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:43:52Z._
